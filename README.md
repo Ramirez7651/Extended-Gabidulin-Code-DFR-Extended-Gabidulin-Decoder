@@ -1,5 +1,4 @@
 # Extended Gabidulin Code Decoder Implementation and Decoding Failure Rate Testing 
-Implementation and Monte Carlo DFR testing for Extended Gabidulin Codes
 基于Song等人的理论工作，完整实现了扩展Gabidulin码的译码算法，并通过蒙特卡洛仿真系统地测试了其在抗量子密码参数下的译码失败率。该代码可供同行研究人员快速复现实验结果，验证扩展Gabidulin码的译码性能理论界，并为基于该码的抗量子密码方案参数选择与安全性分析提供实验依据
 
 # 项目声明
